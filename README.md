@@ -18,4 +18,5 @@ impl Solution {
 }
 
 ```
-![](preview.png)
+![](nvim.png)
+![](vscode.png)
